@@ -31,7 +31,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>gamutkart</finalName>
+		<finalName>mygamutkart</finalName>
 	</build>
 </project>
 
